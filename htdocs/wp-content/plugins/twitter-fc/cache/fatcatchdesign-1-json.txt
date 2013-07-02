@@ -1,0 +1,1 @@
+<div id="twitter_logo"></div><div id="twitter_text"><div class="widget-header"><a href="http://twitter.com/fatcatchdesign" title="Click to follow us">@fatcatchdesign</a></div><ul><li><div class="creation_date">{DATE:Fri Jun 07 04:25:11 +0000 2013} ago</div><p>WebP: the new PNG? <a href="https://t.co/W7H8moIQi4">https://t.co/W7H8moIQi4</a></p></li></ul></div>
