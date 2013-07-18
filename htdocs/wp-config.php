@@ -32,7 +32,7 @@ if ( file_exists( dirname( __FILE__ ) . '/wp-config-local.php' ) )
 	define('DB_USER', 'root');
 
 	/** MySQL database password */
-	define('DB_PASSWORD', 'lucreis1');
+	define('DB_PASSWORD', 'randomlygeneratedpasswordhere');
 
 	/** MySQL hostname */
 	define('DB_HOST', 'localhost');
